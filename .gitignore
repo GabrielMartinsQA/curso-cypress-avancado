@@ -2,5 +2,3 @@
 cypress/screenshots/
 cypress/videos/
 node_modules/
-cypress/cypress.json
-
